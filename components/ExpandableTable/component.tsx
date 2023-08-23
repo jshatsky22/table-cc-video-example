@@ -177,6 +177,7 @@ export default function component({
                 <FlagOutlined onClick={handleDetailFlagClick} />
               </Tooltip>
             </a>
+            {/* NOTE for Anton - We will add in the component below during the example video */}
             <a>
               <Tooltip title="View/Add Notes">
                 <FileTextOutlined onClick={openNotesModalDetail} />
@@ -256,7 +257,6 @@ export default function component({
               <FlagOutlined onClick={handlePrimaryFlagClick} />
             </Tooltip>
           </a>
-          {/* NOTE for Anton - We will add in the component below during the example video */}
           <a>
             <Tooltip title="View/Add Notes">
               <FileTextOutlined onClick={openNotesModalPrimary} />
