@@ -1,0 +1,40 @@
+created: 2023-08-18T17:42:42.418Z
+creator:
+  id: b7f6076a-3da9-4836-b31f-4c3bdfa6ec33
+  name: Jesse Shatsky
+deletedAt: null
+deployedAt: null
+deployedCommitId: null
+folderId: 4fefba06-24c0-4001-8a06-71e77f0542e4
+id: 76e5fba9-f048-45a8-984d-68a444245d36
+isDeployed: false
+isEditable: true
+isPublic: false
+name: Jesse's Job Monitoring
+organizationId: 71b53980-0a9d-45dc-a4e8-5efd62ebfb1f
+pages:
+  - id: ecbe76aa-1878-4511-8d77-95f5dbb676c6
+    isDefault: true
+settings:
+  profiles:
+    deployed:
+      availableProfileIds:
+        - 431d2084-be9f-46c4-b44e-8632bb72084d
+        - bedc7639-78d3-4b13-ad79-5fc86dfc94d5
+      defaultProfileId: 431d2084-be9f-46c4-b44e-8632bb72084d
+    editor:
+      availableProfileIds:
+        - 431d2084-be9f-46c4-b44e-8632bb72084d
+        - bedc7639-78d3-4b13-ad79-5fc86dfc94d5
+      defaultProfileId: bedc7639-78d3-4b13-ad79-5fc86dfc94d5
+    preview:
+      availableProfileIds:
+        - 431d2084-be9f-46c4-b44e-8632bb72084d
+        - bedc7639-78d3-4b13-ad79-5fc86dfc94d5
+      defaultProfileId: bedc7639-78d3-4b13-ad79-5fc86dfc94d5
+updated: 2023-08-18T17:51:22.598Z
+userPermissions:
+  - manage:applications
+  - read:applications
+  - publish:applications
+  - makePublic:applications
